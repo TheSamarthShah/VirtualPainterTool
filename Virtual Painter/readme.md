@@ -21,7 +21,7 @@ I don't know about AI much so I am unable to do so. But I'll learn and implement
 
       Step 1 :
     
-        Fork this repository or else use git clone, to clone the repository on your local machine
+        Use git clone, to clone the repository on your local machine
     
       Step 2 :
     
